@@ -71,7 +71,7 @@
     <script>
       if ($.browser.msie  && parseInt($.browser.version, 10) === 9 && window.location.href.indexOf("#")) 
     {
-        document.location.href = String( document.location.href ).replace( "#/", "" );
+        document.location.href = String( document.location.href ).replace( /#\//, "" );
     }
     </script>
   </body>
