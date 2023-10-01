@@ -4,32 +4,30 @@
 const settings = {
   isSplash: false, // Change this to true if you want to use the splash screen.
   useCustomCursor: true, // Change this to false if you want the good'ol cursor
-  googleTrackingID: "UA-174238252-2",
+  googleTrackingID: "G-NHH8FMWVS1",
 };
 
 //Home Page
 const greeting = {
   title: "Hello.",
-  title2: "Hrishi",
-  logo_name: "hrishi.p()",
-  nickname: "hrishi1999 / picleric",
-  full_name: "Hrishi Patel",
-  subTitle:
-    "Full Stack Developer, Machine Learning Enthusiast. Always learning.",
-  resumeLink:
-    "https://drive.google.com/file/d/1kcvW8P65jWZFeKR6Jopf3nrQLA1qJCwn/view?usp=sharing",
-  mail: "mailto:hrishipatel99@gmail.com",
+  title2: "Amar",
+  logo_name: "amar.m()",
+  nickname: "amie",
+  full_name: "Amar Murmu",
+  subTitle: "Full Stack Developer, who also enjoys to be creative..",
+  resumeLink: " ",
+  mail: "mailto:iron57441@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/hrishi1999",
-  linkedin: "https://www.linkedin.com/in/hrishi-patel-ba8476140/",
-  gmail: "hrishipatel99@gmail.com",
+  github: "https://github.com/liveamar",
+  linkedin: "https://www.linkedin.com/in/amar-murmu",
+  gmail: "iron57441@gmail.com",
   gitlab: " ",
   facebook: " ",
-  twitter: "https://twitter.com/hrishi_55",
-  instagram: "https://www.instagram.com/picleric/",
+  twitter: "https://twitter.com/2003lonewolf",
+  instagram: "https://www.instagram.com/thebadboyyoulike/",
 };
 
 const skills = {
@@ -629,7 +627,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "hrishi2.png",
+    profile_image_path: "me.png",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
@@ -637,7 +635,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I don't blog frequently but when I do something awesome, I do try my best to write a blog about it.",
-    link: "https://medium.com/@hrishipatel99",
+    link: "https://amarmurmu.hashnode.dev/",
     avatar_image_path: "blogs_image.svg",
   },
 };
