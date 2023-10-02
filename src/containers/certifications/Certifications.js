@@ -30,4 +30,4 @@ function Certifications(props) {
   );
 }
 
-export default Certifications;
+// export default Certifications;
