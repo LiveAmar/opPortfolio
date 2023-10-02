@@ -42,7 +42,7 @@ function Experience(props) {
           </div>
         </Fade>
       </div>
-      <ExperienceAccordion sections={experience["sections"]} theme={theme} />
+      {/* <ExperienceAccordion sections={experience["sections"]} theme={theme} /> */}
       <Footer theme={props.theme} onToggle={props.onToggle} />
     </div>
   );
