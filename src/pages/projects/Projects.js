@@ -44,11 +44,11 @@ function Projects(props) {
           </div>
         </Fade>
       </div>
-      <div className="repo-cards-div-main">
+      {/* <div className="repo-cards-div-main">
         {projects.data.map((repo) => {
           return <ProjectCard repo={repo} theme={theme} />;
         })}
-      </div>
+      </div> */}
       <br />
       <br />
       <br />
